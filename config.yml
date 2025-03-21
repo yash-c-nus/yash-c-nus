@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://yash-c-nus.github.io" 
+title: Yash Chhabra
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,20 +10,20 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Reads
           url: books/
-          weight: 5 
-        - name: Papers
+          weight: 3 
+        - name: Projects/Competitions
           url: papers/
-          weight: 2
+          weight: 4
         - name: Courses
           url: courses/
-          weight: 3
-        - name: Data
+          weight: 2
+        - name: Coffee
           url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 5 
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/yashc19/
           weight: 6
 
 params:
